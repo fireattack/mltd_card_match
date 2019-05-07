@@ -1,0 +1,4880 @@
+[
+  {
+    "idolID": "1",
+    "cardName": "天海春香",
+    "cardID": "1",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "みんなでつくるステージ　天海春香",
+    "cardID": "52",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "ようこそ私達の劇場へ！　天海春香",
+    "cardID": "103",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0034_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "ひたむきチャレンジ！　天海春香",
+    "cardID": "153",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0042_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "いつだってお姫様　天海春香",
+    "cardID": "202",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "クッキングスタディ！　天海春香",
+    "cardID": "204",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0064_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "BRAND NEW PERFORMANCE　天海春香",
+    "cardID": "309",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "伝説を継ぐ者へ　天海春香",
+    "cardID": "363",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "桜色のステージ　天海春香",
+    "cardID": "530",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "2",
+    "cardName": "如月千早",
+    "cardID": "2",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "まばゆい星海　如月千早",
+    "cardID": "78",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "メルヘンメイド　如月千早",
+    "cardID": "161",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0032_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "新春の光に願いを込めて　如月千早",
+    "cardID": "197",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0044_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "アイドルの試練　如月千早",
+    "cardID": "279",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "BRAND NEW PERFORMANCE　如月千早",
+    "cardID": "310",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "凛然たる騎士　如月千早",
+    "cardID": "367",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0072_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0072_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "夏旅へのお誘い　如月千早",
+    "cardID": "379",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "ゲレンデガール　如月千早",
+    "cardID": "473",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "制服シリーズ　如月千早",
+    "cardID": "493",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "3",
+    "cardName": "星井美希",
+    "cardID": "3",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "一瞬のウインク　星井美希",
+    "cardID": "79",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "小悪魔サーキットレディ　星井美希",
+    "cardID": "175",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0032_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "ミルキーウェイ　星井美希",
+    "cardID": "236",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "恋する視線　星井美希",
+    "cardID": "287",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "BRAND NEW PERFORMANCE　星井美希",
+    "cardID": "311",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "スターライトプリンセス　星井美希",
+    "cardID": "434",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "アトラクト・アテンション　星井美希",
+    "cardID": "468",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "スターリー・グロウ　星井美希",
+    "cardID": "516",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0094_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "4",
+    "cardName": "萩原雪歩",
+    "cardID": "4",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "天使の目覚め　萩原雪歩",
+    "cardID": "80",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "シークレットライブ！　萩原雪歩",
+    "cardID": "152",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "星降る聖夜　萩原雪歩",
+    "cardID": "179",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0044_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "フレッシュスマイル　萩原雪歩",
+    "cardID": "219",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "おひさまスマイル　萩原雪歩",
+    "cardID": "263",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0062_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "BRAND NEW PERFORMANCE　萩原雪歩",
+    "cardID": "312",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "闇を支配する者　萩原雪歩",
+    "cardID": "361",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0084_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "小さなスノードロップ　萩原雪歩",
+    "cardID": "507",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "なごみのお茶　萩原雪歩",
+    "cardID": "539",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0104_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "5",
+    "cardName": "高槻やよい",
+    "cardID": "5",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "元気100倍ステージ　高槻やよい",
+    "cardID": "53",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "おやすみ♪　高槻やよい",
+    "cardID": "135",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "頼れるお姉ちゃん　高槻やよい",
+    "cardID": "212",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0042_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "カラフルファクトリー　高槻やよい",
+    "cardID": "270",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "BRAND NEW PERFORMANCE　高槻やよい",
+    "cardID": "313",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "キラキラステップ　高槻やよい",
+    "cardID": "381",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "秋色ハイ、ターッチ♪　高槻やよい",
+    "cardID": "408",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "ほわほわステップ　高槻やよい",
+    "cardID": "449",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0094_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "6",
+    "cardName": "菊地真",
+    "cardID": "6",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "全力投球！　菊地真",
+    "cardID": "54",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "夢のお姫様　菊地真",
+    "cardID": "130",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "まこまこ白ねこ　菊地真",
+    "cardID": "207",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0042_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "桃色スマイル♪　菊地真",
+    "cardID": "234",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "BRAND NEW PERFORMANCE　菊地真",
+    "cardID": "314",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "大航海の、その先へ！　菊地真",
+    "cardID": "376",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "ハンサム・ビースト　菊地真",
+    "cardID": "415",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0084_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "ブラック・ストレングス　菊地真",
+    "cardID": "520",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0094_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "7",
+    "cardName": "水瀬伊織",
+    "cardID": "7",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "お嬢様のたしなみ　水瀬伊織",
+    "cardID": "55",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "強がりスライダー　水瀬伊織",
+    "cardID": "127",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0033_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "キューティートリック♪　水瀬伊織",
+    "cardID": "149",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0044_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "レジェンドデイズ　水瀬伊織",
+    "cardID": "216",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "ご機嫌ローズプリンセス　水瀬伊織",
+    "cardID": "277",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0064_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "BRAND NEW PERFORMANCE　水瀬伊織",
+    "cardID": "315",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "月光ファンタジア　水瀬伊織",
+    "cardID": "409",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "ちいさなお目付け役　水瀬伊織",
+    "cardID": "438",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0092_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "一夜限りの魔法　水瀬伊織",
+    "cardID": "487",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "制服シリーズ　水瀬伊織",
+    "cardID": "535",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "四条貴音",
+    "cardID": "8",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "望郷の想い　四条貴音",
+    "cardID": "81",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "優雅なひととき　四条貴音",
+    "cardID": "110",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0034_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "水面に浮かぶ月　四条貴音",
+    "cardID": "140",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "スノーファンタジーナイト　四条貴音",
+    "cardID": "222",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0054_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "セクシー魔女っ娘　四条貴音",
+    "cardID": "259",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0062_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "麗しきエルディスト　四条貴音",
+    "cardID": "301",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "BRAND NEW PERFORMANCE　四条貴音",
+    "cardID": "316",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "月のごとく輝く　四条貴音",
+    "cardID": "515",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0094_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "秋月律子",
+    "cardID": "9",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "夢のお出迎え　秋月律子",
+    "cardID": "82",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "プライベートスナップ　秋月律子",
+    "cardID": "123",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0032_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "タイムトラベラー　秋月律子",
+    "cardID": "190",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "ラストチェック　秋月律子",
+    "cardID": "220",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "きらめきミュージアム　秋月律子",
+    "cardID": "253",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0064_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "BRAND NEW PERFORMANCE　秋月律子",
+    "cardID": "317",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "知性派ハイカラ娘　秋月律子",
+    "cardID": "432",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "10",
+    "cardName": "三浦あずさ",
+    "cardID": "10",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "おとなのお花見　三浦あずさ",
+    "cardID": "56",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "ウォータードリーム　三浦あずさ",
+    "cardID": "119",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "極上のシルエット　三浦あずさ",
+    "cardID": "160",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "白銀のドレス　三浦あずさ",
+    "cardID": "225",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0052_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0052_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "ハッピーブレイクタイム　三浦あずさ",
+    "cardID": "241",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0064_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "BIRTH　三浦あずさ",
+    "cardID": "273",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "BRAND NEW PERFORMANCE　三浦あずさ",
+    "cardID": "318",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "眩惑の水面　三浦あずさ",
+    "cardID": "383",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "フローズン・クリスタル　三浦あずさ",
+    "cardID": "456",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "双海亜美",
+    "cardID": "11",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "天真爛漫　双海亜美",
+    "cardID": "57",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "マーベラスハンマー　双海亜美",
+    "cardID": "138",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "秋を彩るエンターテイナー　双海亜美",
+    "cardID": "163",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0044_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "レジェンドデイズ　双海亜美",
+    "cardID": "217",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "ウルトラアイドル　双海亜美",
+    "cardID": "268",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0062_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "おてんば看板娘　双海亜美",
+    "cardID": "291",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0074_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "BRAND NEW PERFORMANCE　双海亜美",
+    "cardID": "319",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "ときめきハプニング　双海亜美",
+    "cardID": "420",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "うっきうき♪ひな祭り　双海亜美",
+    "cardID": "498",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "双海真美",
+    "cardID": "12",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "キューティーウェイトレス　双海真美",
+    "cardID": "83",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "ミックスナッツ　双海真美",
+    "cardID": "181",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "うきうきスイートタイム　双海真美",
+    "cardID": "214",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0044_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "完成！サイキョープラモデル　双海真美",
+    "cardID": "254",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "麦茶でイッキ！　双海真美",
+    "cardID": "294",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0062_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "BRAND NEW PERFORMANCE　双海真美",
+    "cardID": "320",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "はりきり牛若丸　双海真美",
+    "cardID": "396",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "ウンババウッホッホ！　双海真美",
+    "cardID": "431",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "おねだりジャンケン　双海真美",
+    "cardID": "465",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "ザ・チャレンジャー！　双海真美",
+    "cardID": "527",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0114_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "13",
+    "cardName": "我那覇響",
+    "cardID": "13",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "困惑ゴシック　我那覇響",
+    "cardID": "58",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "伝わる思い　我那覇響",
+    "cardID": "133",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0034_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "突然の告白タイム　我那覇響",
+    "cardID": "211",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "優しく告げる春の足音　我那覇響",
+    "cardID": "260",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "天使のダンスタイム　我那覇響",
+    "cardID": "276",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0062_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "BRAND NEW PERFORMANCE　我那覇響",
+    "cardID": "321",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "和やかランチタイム　我那覇響",
+    "cardID": "437",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "HAPPY DREAMER　我那覇響",
+    "cardID": "447",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "サンシャイン・ブライト　我那覇響",
+    "cardID": "514",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0104_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "春日未来",
+    "cardID": "14",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "シアターデイズ　春日未来",
+    "cardID": "59",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "はじまりの場所　春日未来",
+    "cardID": "104",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0034_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "PRINCESS STARS　春日未来",
+    "cardID": "192",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "でたとこ太閤　春日未来",
+    "cardID": "249",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0052_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0052_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "無邪気なレイニーデイズ　春日未来",
+    "cardID": "303",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0064_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "BRAND NEW PERFORMANCE　春日未来",
+    "cardID": "322",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "伝説の勇者　春日未来",
+    "cardID": "366",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "Starlight Melody!　春日未来",
+    "cardID": "414",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "フォーチュンガール　春日未来",
+    "cardID": "429",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "フルスロットル★ガール　春日未来",
+    "cardID": "469",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "STAR ELEMENTS　春日未来",
+    "cardID": "536",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "15",
+    "cardName": "最上静香",
+    "cardID": "15",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "シアターデイズ　最上静香",
+    "cardID": "60",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "光輝く星のように　最上静香",
+    "cardID": "105",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0034_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "FAIRY STARS　最上静香",
+    "cardID": "157",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "ひとときの安らぎ　最上静香",
+    "cardID": "203",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0052_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0052_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "水滴のプリズム　最上静香",
+    "cardID": "304",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0064_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "BRAND NEW PERFORMANCE　最上静香",
+    "cardID": "323",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "三姉妹カフェ[次女]　最上静香",
+    "cardID": "405",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "ファンシーパンダステージ　最上静香",
+    "cardID": "417",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "D/Zeal　最上静香",
+    "cardID": "443",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "届け、この声！　最上静香",
+    "cardID": "492",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0114_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "ウィルゴ　最上静香",
+    "cardID": "542",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "16",
+    "cardName": "伊吹翼",
+    "cardID": "16",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "シアターデイズ　伊吹翼",
+    "cardID": "61",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "みんなの視線を一人占め♪　伊吹翼",
+    "cardID": "106",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "ANGEL STARS　伊吹翼",
+    "cardID": "176",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "天下無敵の佇まい　伊吹翼",
+    "cardID": "248",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "雨上がりの約束　伊吹翼",
+    "cardID": "305",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0064_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "BRAND NEW PERFORMANCE　伊吹翼",
+    "cardID": "324",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "Sunshine Rhythm!　伊吹翼",
+    "cardID": "378",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "絶叫シネマ　伊吹翼",
+    "cardID": "402",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0092_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "いつかのために　伊吹翼",
+    "cardID": "441",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0102_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0102_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "ハッピークインテット♪　伊吹翼",
+    "cardID": "506",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "一撃必殺！　伊吹翼",
+    "cardID": "522",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "17",
+    "cardName": "田中琴葉",
+    "cardID": "218",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "華麗な剣さばき　田中琴葉",
+    "cardID": "226",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "魅惑のささやき　田中琴葉",
+    "cardID": "227",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "灼熱少女　田中琴葉",
+    "cardID": "255",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "花たちの祝福　田中琴葉",
+    "cardID": "286",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "BRAND NEW PERFORMANCE　田中琴葉",
+    "cardID": "325",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "劇場サスペンス[新ヒロイン]　田中琴葉",
+    "cardID": "425",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "雪景色のお茶会　田中琴葉",
+    "cardID": "451",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "制服シリーズ　田中琴葉",
+    "cardID": "494",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "キュートに姫ポーズ♪　田中琴葉",
+    "cardID": "505",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0102_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0102_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "死の猛攻　田中琴葉",
+    "cardID": "521",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "18",
+    "cardName": "島原エレナ",
+    "cardID": "17",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "カーニバルステージ　島原エレナ",
+    "cardID": "62",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "ワンダフルビーチ　島原エレナ",
+    "cardID": "112",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "ARRIVE　島原エレナ",
+    "cardID": "166",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "Cleasky　島原エレナ",
+    "cardID": "228",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "笑顔が咲く季節　島原エレナ",
+    "cardID": "261",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0064_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "BRAND NEW PERFORMANCE　島原エレナ",
+    "cardID": "326",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "地球規模の大冒険！　島原エレナ",
+    "cardID": "374",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "獲物発見！　島原エレナ",
+    "cardID": "418",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0092_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "君にもメリークリスマス　島原エレナ",
+    "cardID": "446",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "夜桜カーニバル　島原エレナ",
+    "cardID": "531",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "19",
+    "cardName": "佐竹美奈子",
+    "cardID": "18",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "みなぎる元気　佐竹美奈子",
+    "cardID": "63",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "大きくなーれ！　佐竹美奈子",
+    "cardID": "129",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "スマイルハロウィン！　佐竹美奈子",
+    "cardID": "148",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0044_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "ミックスナッツ　佐竹美奈子",
+    "cardID": "182",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "アヒルと水遊び　佐竹美奈子",
+    "cardID": "267",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "爽やかレモンチーズケーキ　佐竹美奈子",
+    "cardID": "302",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0072_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0072_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "BRAND NEW PERFORMANCE　佐竹美奈子",
+    "cardID": "327",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "はじける夏の味♪　佐竹美奈子",
+    "cardID": "380",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0094_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "リブラ　佐竹美奈子",
+    "cardID": "501",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "20",
+    "cardName": "所恵美",
+    "cardID": "19",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "ラグジュアルステージ　所恵美",
+    "cardID": "64",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "魅惑のアクアヴィーナス　所恵美",
+    "cardID": "118",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0034_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "星空のアリエス　所恵美",
+    "cardID": "171",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "無邪気なプリンセス　所恵美",
+    "cardID": "238",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "灼熱少女　所恵美",
+    "cardID": "256",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "BRAND NEW PERFORMANCE　所恵美",
+    "cardID": "328",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "トレンドを先取り♪　所恵美",
+    "cardID": "368",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "超ビーチバレー[同級生]　所恵美",
+    "cardID": "390",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "サジタリアス　所恵美",
+    "cardID": "466",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "21",
+    "cardName": "徳川まつり",
+    "cardID": "20",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "セクシークロコダイル　徳川まつり",
+    "cardID": "84",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "浜辺のプリンセス　徳川まつり",
+    "cardID": "114",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0032_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "PRINCESS STARS　徳川まつり",
+    "cardID": "193",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "麗しのスノークイーン　徳川まつり",
+    "cardID": "224",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "ロマンティックランド　徳川まつり",
+    "cardID": "278",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0064_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "BRAND NEW PERFORMANCE　徳川まつり",
+    "cardID": "329",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "きのこの国のお姫様♪　徳川まつり",
+    "cardID": "391",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0084_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "プリンセスロード　徳川まつり",
+    "cardID": "440",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "Charlotte・Charlotte　徳川まつり",
+    "cardID": "478",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "ヘヴンリー・フラワーズ　徳川まつり",
+    "cardID": "503",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "22",
+    "cardName": "箱崎星梨花",
+    "cardID": "21",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "はじめてのステージ　箱崎星梨花",
+    "cardID": "65",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "ファンシードリーミング　箱崎星梨花",
+    "cardID": "115",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "ラブリーシルエット　箱崎星梨花",
+    "cardID": "154",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "キラキラコンチェルト　箱崎星梨花",
+    "cardID": "250",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "大人になったら　箱崎星梨花",
+    "cardID": "288",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "BRAND NEW PERFORMANCE　箱崎星梨花",
+    "cardID": "330",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "Starlight Melody!　箱崎星梨花",
+    "cardID": "413",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "チャーミングシープ　箱崎星梨花",
+    "cardID": "474",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0092_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "ピコピコプラネッツ　箱崎星梨花",
+    "cardID": "513",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "野々原茜",
+    "cardID": "22",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "真夏の川遊び　野々原茜",
+    "cardID": "85",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "クレシェンドブルー　野々原茜",
+    "cardID": "125",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "ホラーナイトパレード　野々原茜",
+    "cardID": "150",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "ハピ☆パラ！　野々原茜",
+    "cardID": "283",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "うざカワクィーン　野々原茜",
+    "cardID": "296",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "BRAND NEW PERFORMANCE　野々原茜",
+    "cardID": "331",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "街を駆ける盗賊　野々原茜",
+    "cardID": "364",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0082_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0082_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "りるきゃん　野々原茜",
+    "cardID": "460",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "ラブリー・バレンタイン　野々原茜",
+    "cardID": "480",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "望月杏奈",
+    "cardID": "23",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "聖剣覚醒　望月杏奈",
+    "cardID": "86",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "ハイテンション親指姫　望月杏奈",
+    "cardID": "139",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0032_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "ハッピーメリークリスマス　望月杏奈",
+    "cardID": "178",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0044_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "デジタルラビット　望月杏奈",
+    "cardID": "243",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "BRAND NEW PERFORMANCE　望月杏奈",
+    "cardID": "332",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "使命を果たす者　望月杏奈",
+    "cardID": "362",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0074_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "三姉妹カフェ[三女]　望月杏奈",
+    "cardID": "407",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "Love it!　望月杏奈",
+    "cardID": "483",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "制服シリーズ　望月杏奈",
+    "cardID": "534",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "25",
+    "cardName": "ロコ",
+    "cardID": "24",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "笑顔のブライダル　ロコ",
+    "cardID": "66",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "グレートアーティファクト　ロコ",
+    "cardID": "186",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0033_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "ジャイアントロコパフェ　ロコ",
+    "cardID": "244",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0042_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "ロコナイズミュージック♪　ロコ",
+    "cardID": "292",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0054_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "波間の瞳　ロコ",
+    "cardID": "308",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "BRAND NEW PERFORMANCE　ロコ",
+    "cardID": "333",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "特別な日のために　ロコ",
+    "cardID": "439",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "Jelly PoP Beans　ロコ",
+    "cardID": "495",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "KOINOBORIは天高く　ロコ",
+    "cardID": "538",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0104_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "26",
+    "cardName": "七尾百合子",
+    "cardID": "25",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "不思議の国のアリス　七尾百合子",
+    "cardID": "67",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "渚のサンシャインガール　七尾百合子",
+    "cardID": "109",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0034_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "乙女ストーム！　七尾百合子",
+    "cardID": "146",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "トゥインクルリズム　七尾百合子",
+    "cardID": "246",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "満天の星空の下　七尾百合子",
+    "cardID": "284",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "BRAND NEW PERFORMANCE　七尾百合子",
+    "cardID": "334",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "お気に入りの物語　七尾百合子",
+    "cardID": "369",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0084_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "爽快スウィングライド　七尾百合子",
+    "cardID": "400",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "ゴシックホワイトドール　七尾百合子",
+    "cardID": "455",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0102_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0102_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "Love it!　七尾百合子",
+    "cardID": "484",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "クランクアップ！　七尾百合子",
+    "cardID": "517",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "高山紗代子",
+    "cardID": "26",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "あったかコーヒー　高山紗代子",
+    "cardID": "87",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "探してロストボール　高山紗代子",
+    "cardID": "120",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "ドリーミープラネット　高山紗代子",
+    "cardID": "189",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0044_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "熱血エール　高山紗代子",
+    "cardID": "221",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0052_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0052_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "閃光☆HANABI団　高山紗代子",
+    "cardID": "298",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "BRAND NEW PERFORMANCE　高山紗代子",
+    "cardID": "335",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "超ビーチバレー[先輩]　高山紗代子",
+    "cardID": "387",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0084_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "チアフル・クリスマス！　高山紗代子",
+    "cardID": "444",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0094_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "記念スナップ　高山紗代子",
+    "cardID": "518",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "松田亜利沙",
+    "cardID": "27",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "純白の笑顔　松田亜利沙",
+    "cardID": "88",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "お忍びバカンスごっこ　松田亜利沙",
+    "cardID": "191",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0032_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "リコッタ　松田亜利沙",
+    "cardID": "199",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "いつだって全力！　松田亜利沙",
+    "cardID": "252",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "ゆったりマッサージ　松田亜利沙",
+    "cardID": "293",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "BRAND NEW PERFORMANCE　松田亜利沙",
+    "cardID": "336",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "小悪魔リビングデッド　松田亜利沙",
+    "cardID": "411",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0084_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "新年初ショット♪ 松田亜利沙",
+    "cardID": "472",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "不滅なる王道　松田亜利沙",
+    "cardID": "528",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "高坂海美",
+    "cardID": "28",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "うきうきサーフィン　高坂海美",
+    "cardID": "89",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "気合充填！　高坂海美",
+    "cardID": "128",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0032_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "ハツラツエネルギー！　高坂海美",
+    "cardID": "167",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "冬も元気いっぱい！　高坂海美",
+    "cardID": "223",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "閃光☆HANABI団　高坂海美",
+    "cardID": "299",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "BRAND NEW PERFORMANCE　高坂海美",
+    "cardID": "337",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "超ビーチバレー[新入生]　高坂海美",
+    "cardID": "389",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "夭折の天才剣士　高坂海美",
+    "cardID": "398",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "憧れの大変身　高坂海美",
+    "cardID": "433",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0104_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "美味しい休憩タイム　高坂海美",
+    "cardID": "491",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0112_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0112_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "ガールズ・フェスティバル　高坂海美",
+    "cardID": "497",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0124_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "マイティセーラーズ　高坂海美",
+    "cardID": "523",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "中谷育",
+    "cardID": "29",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "フラワースマイル　中谷育",
+    "cardID": "68",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "おやすみ♪　中谷育",
+    "cardID": "136",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "今日も元気いっぱい！　中谷育",
+    "cardID": "170",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0044_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "トゥインクルリズム　中谷育",
+    "cardID": "245",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "大きく咲いて　中谷育",
+    "cardID": "271",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "BRAND NEW PERFORMANCE　中谷育",
+    "cardID": "338",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "楽しい夏合宿！　中谷育",
+    "cardID": "385",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0082_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0082_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "一生懸命の音色　中谷育",
+    "cardID": "458",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0092_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "へっちゃらプライド　中谷育",
+    "cardID": "475",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0104_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "おしゃま雛　中谷育",
+    "cardID": "499",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "31",
+    "cardName": "天空橋朋花",
+    "cardID": "30",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "優雅なグリーティング　天空橋朋花",
+    "cardID": "90",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "楽しいイルカショー　天空橋朋花",
+    "cardID": "134",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0033_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "夜想令嬢　天空橋朋花",
+    "cardID": "209",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "イノセントガーデン　天空橋朋花",
+    "cardID": "266",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0054_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "スイートシャワー　天空橋朋花",
+    "cardID": "295",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "BRAND NEW PERFORMANCE　天空橋朋花",
+    "cardID": "339",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "BlueMoon Harmony!　天空橋朋花",
+    "cardID": "394",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "フォーチュンガール　天空橋朋花",
+    "cardID": "428",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0094_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "絢爛毒舌　天空橋朋花",
+    "cardID": "452",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0102_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0102_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "花より咲き誇り　天空橋朋花",
+    "cardID": "502",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0114_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "せーのでピース☆　天空橋朋花",
+    "cardID": "532",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0122_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0122_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "32",
+    "cardName": "エミリー",
+    "cardID": "31",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "大和撫子のご挨拶　エミリー",
+    "cardID": "69",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "清麗高雅なお嬢様　エミリー",
+    "cardID": "121",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0034_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "フレッシュスタイル　エミリー",
+    "cardID": "155",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "和みのご奉仕　エミリー",
+    "cardID": "215",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "凛として、華やかに　エミリー",
+    "cardID": "251",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0064_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "エターナルハーモニー　エミリー",
+    "cardID": "289",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "BRAND NEW PERFORMANCE　エミリー",
+    "cardID": "340",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "隻眼の侍　エミリー",
+    "cardID": "399",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0092_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "Charlotte・Charlotte　エミリー",
+    "cardID": "479",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "制服シリーズ　エミリー",
+    "cardID": "511",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "33",
+    "cardName": "北沢志保",
+    "cardID": "32",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "静かな闘志　北沢志保",
+    "cardID": "70",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "クレシェンドブルー　北沢志保",
+    "cardID": "124",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0033_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "秋色に染まる世界　北沢志保",
+    "cardID": "162",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0044_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "ゆったりゆず湯　北沢志保",
+    "cardID": "206",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "EScape　北沢志保",
+    "cardID": "265",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "フューチャーライブ360　北沢志保",
+    "cardID": "297",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0072_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0072_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "BRAND NEW PERFORMANCE　北沢志保",
+    "cardID": "341",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "船上のセラピスト　北沢志保",
+    "cardID": "375",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0094_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "崇高なる光芒　北沢志保",
+    "cardID": "419",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "リアル・インテンション　北沢志保",
+    "cardID": "461",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0114_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "制服シリーズ　北沢志保",
+    "cardID": "510",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "舞浜歩",
+    "cardID": "33",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "夕焼けキャニオン　舞浜歩",
+    "cardID": "91",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "急接近スペースライド　舞浜歩",
+    "cardID": "117",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0032_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "常夏パラダイス！　舞浜歩",
+    "cardID": "183",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0044_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "BIRTH　舞浜歩",
+    "cardID": "272",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "BRAND NEW PERFORMANCE　舞浜歩",
+    "cardID": "342",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "ほたるの海　舞浜歩",
+    "cardID": "401",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "ハロウィン・ウィッチ　舞浜歩",
+    "cardID": "410",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "雪解けブレイクダンス！　舞浜歩",
+    "cardID": "457",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "Jelly PoP Beans　舞浜歩",
+    "cardID": "496",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "35",
+    "cardName": "木下ひなた",
+    "cardID": "34",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "純白ドレスアップ　木下ひなた",
+    "cardID": "92",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "あま～い森へようこそ♪　木下ひなた",
+    "cardID": "151",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "みんなのマスコット神さま　木下ひなた",
+    "cardID": "198",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "アップルメリーゴーラウンド　木下ひなた",
+    "cardID": "257",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "BRAND NEW PERFORMANCE　木下ひなた",
+    "cardID": "343",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "夏のおすそわけ　木下ひなた",
+    "cardID": "370",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "アニマル・パレード♪　木下ひなた",
+    "cardID": "416",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "アップルスウィート　木下ひなた",
+    "cardID": "471",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0092_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "ピコピコプラネッツ　木下ひなた",
+    "cardID": "512",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "36",
+    "cardName": "矢吹可奈",
+    "cardID": "35",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "コンコンこぎつね　矢吹可奈",
+    "cardID": "71",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0022_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "ブレーメンの音楽隊　矢吹可奈",
+    "cardID": "116",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "笑顔咲かせるマーチング　矢吹可奈",
+    "cardID": "143",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0044_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "画家とモデルと　矢吹可奈",
+    "cardID": "164",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0053_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "無垢な恥じらい　矢吹可奈",
+    "cardID": "239",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "BRAND NEW PERFORMANCE　矢吹可奈",
+    "cardID": "344",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "Sunshine Rhythm!　矢吹可奈",
+    "cardID": "377",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "出発進行！　矢吹可奈",
+    "cardID": "421",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0092_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "エンジョイ♡ウィンターデート　矢吹可奈",
+    "cardID": "462",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0104_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "コットンキャンディバス　矢吹可奈",
+    "cardID": "482",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "STAR ELEMENTS　矢吹可奈",
+    "cardID": "537",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "横山奈緒",
+    "cardID": "36",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "宵の打ち上げ　横山奈緒",
+    "cardID": "93",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "ラブリークレープ　横山奈緒",
+    "cardID": "144",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0033_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "元気ハツラツから回り　横山奈緒",
+    "cardID": "169",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0042_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "今年もダイナミックに！　横山奈緒",
+    "cardID": "196",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "魅惑のドロップ　横山奈緒",
+    "cardID": "258",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "ワクワクを履いていこ♪　横山奈緒",
+    "cardID": "300",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0074_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "BRAND NEW PERFORMANCE　横山奈緒",
+    "cardID": "345",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0083_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "超ビーチバレー[右腕クイーン]　横山奈緒",
+    "cardID": "388",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0093_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "HAPPY DREAMER　横山奈緒",
+    "cardID": "448",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "ジョイフル・グレーテル　横山奈緒",
+    "cardID": "485",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "38",
+    "cardName": "二階堂千鶴",
+    "cardID": "37",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "純情乙女なお嬢様　二階堂千鶴",
+    "cardID": "72",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "まばゆいマドモワゼル　二階堂千鶴",
+    "cardID": "159",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0034_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "夜想令嬢　二階堂千鶴",
+    "cardID": "208",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "ナチュラルスマイル　二階堂千鶴",
+    "cardID": "275",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "太陽のスポットライト　二階堂千鶴",
+    "cardID": "306",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0064_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "BRAND NEW PERFORMANCE　二階堂千鶴",
+    "cardID": "346",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "舞踏会の主賓　二階堂千鶴",
+    "cardID": "393",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "幻想の光の中で　二階堂千鶴",
+    "cardID": "450",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0094_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "39",
+    "cardName": "馬場このみ",
+    "cardID": "38",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "宴もたけなわ　馬場このみ",
+    "cardID": "73",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "遅咲きグラビアクイーン　馬場このみ",
+    "cardID": "111",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "トウィンクルスター　馬場このみ",
+    "cardID": "201",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "桃色セレブレーション　馬場このみ",
+    "cardID": "233",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "プリティーハムスター　馬場このみ",
+    "cardID": "280",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0062_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "レディーオンザビーチ　馬場このみ",
+    "cardID": "307",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0074_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "BRAND NEW PERFORMANCE　馬場このみ",
+    "cardID": "347",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "劇場サスペンス[元大女優]　馬場このみ",
+    "cardID": "424",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "白き鶴の如く　馬場このみ",
+    "cardID": "486",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "大神環",
+    "cardID": "39",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "こぶんのヒミツ基地！　大神環",
+    "cardID": "74",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "くったりのぼせ顔　大神環",
+    "cardID": "141",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "リトルレースクイーン　大神環",
+    "cardID": "173",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0044_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "ちょっぴり背伸び　大神環",
+    "cardID": "262",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "BRAND NEW PERFORMANCE　大神環",
+    "cardID": "348",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "本の世界で大冒険！　大神環",
+    "cardID": "392",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0074_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "ウンババウッホッホ！　大神環",
+    "cardID": "430",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "魅惑のフェアリーガール　大神環",
+    "cardID": "488",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0092_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "豊川風花",
+    "cardID": "40",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "ちょっぴり刺激的に　豊川風花",
+    "cardID": "94",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "癒やしの楽園　豊川風花",
+    "cardID": "132",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "紅白扇舞　豊川風花",
+    "cardID": "188",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0042_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "4 Luxury　豊川風花",
+    "cardID": "282",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "BRAND NEW PERFORMANCE　豊川風花",
+    "cardID": "349",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "超ビーチバレー[キング]　豊川風花",
+    "cardID": "386",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0074_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "ステージ後のひととき　豊川風花",
+    "cardID": "454",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "ぽよっと平均台　豊川風花",
+    "cardID": "529",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0092_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "桜舞う満開パレード　豊川風花",
+    "cardID": "540",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "宮尾美也",
+    "cardID": "41",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "マジカルクイーン　宮尾美也",
+    "cardID": "95",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "きらめきに身を委ねて　宮尾美也",
+    "cardID": "126",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "マイペースユニット　宮尾美也",
+    "cardID": "156",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0042_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "夢ごこちハンモック　宮尾美也",
+    "cardID": "184",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0053_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "Cleasky　宮尾美也",
+    "cardID": "229",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "BRAND NEW PERFORMANCE　宮尾美也",
+    "cardID": "350",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "三姉妹カフェ[ネコ]　宮尾美也",
+    "cardID": "403",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "制服シリーズ　宮尾美也",
+    "cardID": "476",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "みやみやカフェ　宮尾美也",
+    "cardID": "490",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "スター・ナビゲーター　宮尾美也",
+    "cardID": "509",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0114_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "43",
+    "cardName": "福田のり子",
+    "cardID": "42",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0011_1.png",
+    "type1": "pr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "しっとり夕涼み　福田のり子",
+    "cardID": "96",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0023_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "全力まくら投げ！　福田のり子",
+    "cardID": "142",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0032_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "ふたりの指定席　福田のり子",
+    "cardID": "174",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0043_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "パワフルガール　福田のり子",
+    "cardID": "247",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0054_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "戦士の沐浴　福田のり子",
+    "cardID": "274",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0063_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "BRAND NEW PERFORMANCE　福田のり子",
+    "cardID": "351",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0073_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "偶然の出会い　福田のり子",
+    "cardID": "435",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0082_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0082_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "ニューイヤー・ゴング　福田のり子",
+    "cardID": "464",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0094_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "リブラ　福田のり子",
+    "cardID": "500",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "カラフリング・エッグ！　福田のり子",
+    "cardID": "533",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "44",
+    "cardName": "真壁瑞希",
+    "cardID": "43",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "無表情MC　真壁瑞希",
+    "cardID": "75",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "ほのぼの砂遊び　真壁瑞希",
+    "cardID": "113",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0033_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "乙女ストーム！　真壁瑞希",
+    "cardID": "147",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "てづくりのスノードーム　真壁瑞希",
+    "cardID": "180",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "みんなへ愛をこめて　真壁瑞希",
+    "cardID": "213",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0064_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "EScape　真壁瑞希",
+    "cardID": "264",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "BRAND NEW PERFORMANCE　真壁瑞希",
+    "cardID": "352",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "プリンセスターン　真壁瑞希",
+    "cardID": "382",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0092_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0092_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "劇場サスペンス[支配人]　真壁瑞希",
+    "cardID": "423",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0104_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "早朝お寝惚け温泉　真壁瑞希",
+    "cardID": "453",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "サジタリアス　真壁瑞希",
+    "cardID": "467",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "女子力アップ。　真壁瑞希",
+    "cardID": "508",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0132_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0132_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "45",
+    "cardName": "篠宮可憐",
+    "cardID": "44",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "自然体の笑顔　篠宮可憐",
+    "cardID": "97",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "ほっと一息　篠宮可憐",
+    "cardID": "122",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0033_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "魅惑のエレガントタイム　篠宮可憐",
+    "cardID": "205",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0044_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "ガチガチウェディングドレス　篠宮可憐",
+    "cardID": "240",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0052_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0052_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "BRAND NEW PERFORMANCE　篠宮可憐",
+    "cardID": "353",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "サマーフェスティバル　篠宮可憐",
+    "cardID": "372",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "ゴースト・バラード　篠宮可憐",
+    "cardID": "412",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "フォーチュンガール　篠宮可憐",
+    "cardID": "427",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0094_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "りるきゃん　篠宮可憐",
+    "cardID": "459",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "46",
+    "cardName": "百瀬莉緒",
+    "cardID": "45",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "お約束サンオイル　百瀬莉緒",
+    "cardID": "98",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "甘ーいサプライズ　百瀬莉緒",
+    "cardID": "145",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0032_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "ARRIVE　百瀬莉緒",
+    "cardID": "165",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "戯れのお誘い　百瀬莉緒",
+    "cardID": "231",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "ひらりひらりと魅せられて　百瀬莉緒",
+    "cardID": "269",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0064_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0064_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "BRAND NEW PERFORMANCE　百瀬莉緒",
+    "cardID": "354",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "三姉妹カフェ[お客さん]　百瀬莉緒",
+    "cardID": "404",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0084_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "静寂なプール　百瀬莉緒",
+    "cardID": "489",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "永吉昴",
+    "cardID": "46",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "照れ顔ビューティー　永吉昴",
+    "cardID": "99",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "エレクトロフェアリー　永吉昴",
+    "cardID": "168",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0033_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0033_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "ベースボールガール　永吉昴",
+    "cardID": "210",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0044_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0044_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "ミルキーウェイ　永吉昴",
+    "cardID": "237",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "ウォータースプラッシュ！　永吉昴",
+    "cardID": "285",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0062_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "BRAND NEW PERFORMANCE　永吉昴",
+    "cardID": "355",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "サマーフェスティバル　永吉昴",
+    "cardID": "371",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "スウィート・パレットランド　永吉昴",
+    "cardID": "481",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0094_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "ウィルゴ　永吉昴",
+    "cardID": "541",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "48",
+    "cardName": "北上麗花",
+    "cardID": "47",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "熟睡ガール　北上麗花",
+    "cardID": "100",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0023_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "無邪気な音色　北上麗花",
+    "cardID": "131",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0032_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "パッチリ獅子舞娘　北上麗花",
+    "cardID": "187",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "爽やかな風に誘われて　北上麗花",
+    "cardID": "230",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "BRAND NEW PERFORMANCE　北上麗花",
+    "cardID": "356",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "BlueMoon Harmony!　北上麗花",
+    "cardID": "395",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "ハッピー・ホーリーナイト　北上麗花",
+    "cardID": "445",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0084_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0084_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "スプリングビューティー　北上麗花",
+    "cardID": "504",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "49",
+    "cardName": "周防桃子",
+    "cardID": "48",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "お願いパジャマ　周防桃子",
+    "cardID": "101",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "春の桃子コーデ　周防桃子",
+    "cardID": "172",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0032_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0032_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "リコッタ　周防桃子",
+    "cardID": "200",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "おしゃまな女の子　周防桃子",
+    "cardID": "242",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0054_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "BRAND NEW PERFORMANCE　周防桃子",
+    "cardID": "357",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "夢色式部　周防桃子",
+    "cardID": "397",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0074_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0074_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "劇場サスペンス[スタア]　周防桃子",
+    "cardID": "426",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "エンジェルキューティクル　周防桃子",
+    "cardID": "470",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "アクティブチアリング　周防桃子",
+    "cardID": "526",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0104_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "ジュリア",
+    "cardID": "49",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "Rock of dawn　ジュリア",
+    "cardID": "102",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0023_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0023_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "シャイニングワールド　ジュリア",
+    "cardID": "137",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0034_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "基本が大事！　ジュリア",
+    "cardID": "185",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0042_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0042_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "恥じらいお雛様　ジュリア",
+    "cardID": "235",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0053_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0053_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "エターナルハーモニー　ジュリア",
+    "cardID": "290",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0063_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "BRAND NEW PERFORMANCE　ジュリア",
+    "cardID": "358",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "はにかみパレオ　ジュリア",
+    "cardID": "384",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "D/Zeal　ジュリア",
+    "cardID": "442",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "迎春プレイヤー　ジュリア",
+    "cardID": "463",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0104_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "ヒーローズ・ジェネシス　ジュリア",
+    "cardID": "525",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "白石紬",
+    "cardID": "50",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0011_1.png",
+    "type1": "fa",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "シアターデイズ　白石紬",
+    "cardID": "76",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0022_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "踏み出した夢への一歩　白石紬",
+    "cardID": "107",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0034_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "FAIRY STARS　白石紬",
+    "cardID": "158",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0043_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "都会の風に吹かれて　白石紬",
+    "cardID": "194",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0054_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "くつろぎルームウェア　白石紬",
+    "cardID": "232",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0062_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0062_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "BRAND NEW PERFORMANCE　白石紬",
+    "cardID": "359",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0073_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "勇気を示す者　白石紬",
+    "cardID": "365",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0083_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "劇場サスペンス[探偵]　白石紬",
+    "cardID": "422",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0094_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0094_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "制服シリーズ　白石紬",
+    "cardID": "477",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "ヒーローズ・ジェネシス　白石紬",
+    "cardID": "524",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "52",
+    "cardName": "桜守歌織",
+    "cardID": "51",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0011_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0011_1.png",
+    "type1": "an",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "シアターデイズ　桜守歌織",
+    "cardID": "77",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0022_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0022_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "音楽で紡ぎ出す世界　桜守歌織",
+    "cardID": "108",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0034_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0034_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "ANGEL STARS　桜守歌織",
+    "cardID": "177",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0043_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0043_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "ウインタースノーマジック　桜守歌織",
+    "cardID": "195",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0054_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0054_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "4 Luxury　桜守歌織",
+    "cardID": "281",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0063_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0063_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "BRAND NEW PERFORMANCE　桜守歌織",
+    "cardID": "360",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0073_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0073_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "三姉妹カフェ[長女]　桜守歌織",
+    "cardID": "406",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0083_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0083_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "憧れの先生　桜守歌織",
+    "cardID": "436",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0093_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "破滅の奏者　桜守歌織",
+    "cardID": "519",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0104_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "201",
+    "cardName": "世界を愛する聖少女　詩花",
+    "cardID": "373",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/201xxx0013_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/201xxx0013_1.png",
+    "type1": "sr",
+    "type2": "iex"
+  }
+]
