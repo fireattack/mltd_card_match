@@ -44,12 +44,9 @@ def getBestMatchWithTemplateMatching(card, templates='icons_crop'):
     return bestMatch
 
 
-def card_match(path):
+def card_cut(img_path, save_folder):  # Separate cards from screenshots
 
-    tempName = str(time.time())
-
-    # Separate cards from screenshots
-    img_orig = cv2.imread(path)
+    img_orig = cv2.imread(img_path)
     h, w, c = img_orig.shape
     new_w = round(887 / h * w)
     w_offset = round((new_w-1173)/2)
@@ -58,8 +55,8 @@ def card_match(path):
     img_orig = img_orig[105:-130, w_offset: - w_offset]
     img = cv2.cvtColor(img_orig, cv2.COLOR_BGR2GRAY)
 
-    if not exists(tempName):
-        makedirs(tempName)
+    if not exists(save_folder):
+        makedirs(save_folder)
 
     m = np.mean(img, axis=1)
 
@@ -80,8 +77,14 @@ def card_match(path):
         for i in range(0, 8):
             crop = img_orig[y1 + 22:y2 - 30, 46 + 138 * i:159 + 138 * i, :]
             print(f'Saving {x:02}.png..')
-            cv2.imwrite(join(tempName, f'{x:02}.png'), crop)
+            cv2.imwrite(join(save_folder, f'{x:02}.png'), crop)
             x = x + 1
+
+
+def card_match(path, remove_temp_file = True):
+
+    tempName = str(time.time())
+    card_cut(path, tempName)
 
     # Load card metadata
     with open("cards.json", "r", encoding='utf-8') as read_file:
@@ -131,7 +134,8 @@ def card_match(path):
     htmlFileName = join('report', f'{tempName}.html')
     with open(htmlFileName, "w", encoding='utf-8') as htmlFile:
         htmlFile.write(html)
-    rmtree(tempName)
+    if remove_temp_file:
+        rmtree(tempName)
     return f'{tempName}.html'
 
 
