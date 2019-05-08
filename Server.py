@@ -1,15 +1,18 @@
 from flask import send_from_directory
 from flask import Flask, render_template, request, url_for, redirect
-from werkzeug import secure_filename
-from os.path import join
+from werkzeug.utils import secure_filename
+from os import makedirs
+from os.path import join, exists
 from mltd_card_match import card_match
 
 UPLOAD_FOLDER = 'upload'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
+if not exists('upload'):
+        makedirs('upload')
+
 app = Flask(__name__, static_url_path='/icons', static_folder='icons')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-
 
 def allowed_file(filename):
     return '.' in filename and \
