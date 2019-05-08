@@ -9,10 +9,11 @@ UPLOAD_FOLDER = 'upload'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
 if not exists('upload'):
-        makedirs('upload')
+    makedirs('upload')
 
 app = Flask(__name__, static_url_path='/icons', static_folder='icons')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
 
 def allowed_file(filename):
     return '.' in filename and \
