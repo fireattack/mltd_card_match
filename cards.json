@@ -81,6 +81,51 @@
     "type2": "ipr"
   },
   {
+    "idolID": "1",
+    "cardName": "ありのまま、ずっと　天海春香",
+    "cardID": "553",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "ふわふわドリーミング　天海春香",
+    "cardID": "561",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "UNI-ONAIR　天海春香",
+    "cardID": "575",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "アウトサイダー[ファイナルデイ]　天海春香",
+    "cardID": "702",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0134_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "1",
+    "cardName": "制服シリーズ　天海春香",
+    "cardID": "750",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/001har0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/001har0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "2",
     "cardName": "如月千早",
     "cardID": "2",
@@ -171,6 +216,51 @@
     "type2": "ifa"
   },
   {
+    "idolID": "2",
+    "cardName": "ありのまま、ずっと　如月千早",
+    "cardID": "554",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "UNI-ONAIR　如月千早",
+    "cardID": "576",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "アクアマリンマーメイド　如月千早",
+    "cardID": "628",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0124_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "アウトサイダー[ダスク]　如月千早",
+    "cardID": "704",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0153_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "2",
+    "cardName": "ARCANA　如月千早",
+    "cardID": "744",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/002chi0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/002chi0163_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "3",
     "cardName": "星井美希",
     "cardID": "3",
@@ -248,6 +338,60 @@
     "cardID": "516",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0094_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0094_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "UNI-ONAIR　星井美希",
+    "cardID": "577",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "Xs　星井美希",
+    "cardID": "662",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "制服シリーズ　星井美希",
+    "cardID": "672",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "アウトサイダー[バスターブレイド]　星井美希",
+    "cardID": "705",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "神懸りし舞調べ　星井美希",
+    "cardID": "759",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "3",
+    "cardName": "Love me do♡　星井美希",
+    "cardID": "766",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/003mik0164_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/003mik0164_1.png",
     "type1": "ssr",
     "type2": "ian"
   },
@@ -342,6 +486,51 @@
     "type2": "ipr"
   },
   {
+    "idolID": "4",
+    "cardName": "UNI-ONAIR　萩原雪歩",
+    "cardID": "578",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "祈りを託して　萩原雪歩",
+    "cardID": "635",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0122_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0122_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "Xs　萩原雪歩",
+    "cardID": "661",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "ブランニュー・シーナリー　萩原雪歩",
+    "cardID": "740",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0144_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "4",
+    "cardName": "制服シリーズ　萩原雪歩",
+    "cardID": "774",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/004yuk0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/004yuk0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "5",
     "cardName": "高槻やよい",
     "cardID": "5",
@@ -423,6 +612,51 @@
     "type2": "ian"
   },
   {
+    "idolID": "5",
+    "cardName": "スプライトイルミネーション　高槻やよい",
+    "cardID": "564",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "UNI-ONAIR　高槻やよい",
+    "cardID": "579",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "スポーツ☆スマイル　高槻やよい",
+    "cardID": "670",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0124_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "プリティデュオ　高槻やよい",
+    "cardID": "736",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0132_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0132_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "5",
+    "cardName": "制服シリーズ　高槻やよい",
+    "cardID": "789",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/005yay0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/005yay0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "6",
     "cardName": "菊地真",
     "cardID": "6",
@@ -501,6 +735,42 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0094_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0094_1.png",
     "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "UNI-ONAIR　菊地真",
+    "cardID": "580",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "アウトサイダー[ベルベット]　菊地真",
+    "cardID": "701",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "制服シリーズ　菊地真",
+    "cardID": "763",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "6",
+    "cardName": "ボーダレス・カーニバル！　菊地真",
+    "cardID": "790",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/006mak0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/006mak0133_1.png",
+    "type1": "sr",
     "type2": "ipr"
   },
   {
@@ -603,6 +873,33 @@
     "type2": "ifa"
   },
   {
+    "idolID": "7",
+    "cardName": "気まぐれサンセット　水瀬伊織",
+    "cardID": "547",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "UNI-ONAIR　水瀬伊織",
+    "cardID": "581",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "7",
+    "cardName": "晴れ晴れと、華麗に　水瀬伊織",
+    "cardID": "712",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/007ior0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/007ior0144_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "8",
     "cardName": "四条貴音",
     "cardID": "8",
@@ -684,6 +981,42 @@
     "type2": "ifa"
   },
   {
+    "idolID": "8",
+    "cardName": "UNI-ONAIR　四条貴音",
+    "cardID": "582",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "制服シリーズ　四条貴音",
+    "cardID": "630",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "私のお気に入り　四条貴音",
+    "cardID": "688",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0124_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "8",
+    "cardName": "夜空に瞬いて　四条貴音",
+    "cardID": "730",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/008tak0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/008tak0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "9",
     "cardName": "秋月律子",
     "cardID": "9",
@@ -753,6 +1086,51 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0084_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0084_1.png",
     "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "UNI-ONAIR　秋月律子",
+    "cardID": "583",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0093_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0093_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "万全のサポート　秋月律子",
+    "cardID": "655",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "気付いて！乙女ゴコロ　秋月律子",
+    "cardID": "691",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "スポットライトの向こうに　秋月律子",
+    "cardID": "733",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0124_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "9",
+    "cardName": "制服シリーズ　秋月律子",
+    "cardID": "782",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/009rit0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/009rit0133_1.png",
+    "type1": "sr",
     "type2": "ifa"
   },
   {
@@ -846,6 +1224,51 @@
     "type2": "ian"
   },
   {
+    "idolID": "10",
+    "cardName": "制服シリーズ　三浦あずさ",
+    "cardID": "568",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "UNI-ONAIR　三浦あずさ",
+    "cardID": "584",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "哀しみの魔女　三浦あずさ",
+    "cardID": "633",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "私だけの運命を探して　三浦あずさ",
+    "cardID": "720",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0144_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "10",
+    "cardName": "ARCANA　三浦あずさ",
+    "cardID": "743",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/010azu0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/010azu0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "11",
     "cardName": "双海亜美",
     "cardID": "11",
@@ -932,6 +1355,33 @@
     "cardID": "498",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0104_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "UNI-ONAIR　双海亜美",
+    "cardID": "585",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "制服シリーズ　双海亜美",
+    "cardID": "696",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "11",
+    "cardName": "弾けろ青春っ！　双海亜美",
+    "cardID": "779",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/011ami0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/011ami0134_1.png",
     "type1": "ssr",
     "type2": "ian"
   },
@@ -1035,6 +1485,33 @@
     "type2": "ian"
   },
   {
+    "idolID": "12",
+    "cardName": "UNI-ONAIR　双海真美",
+    "cardID": "586",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "制服シリーズ　双海真美",
+    "cardID": "653",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "12",
+    "cardName": "じゃじゃ馬女学生　双海真美",
+    "cardID": "716",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/012mam0142_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/012mam0142_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
     "idolID": "13",
     "cardName": "我那覇響",
     "cardID": "13",
@@ -1122,6 +1599,42 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0104_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0104_1.png",
     "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "UNI-ONAIR　我那覇響",
+    "cardID": "587",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "ホットサマーメモリーズ　我那覇響",
+    "cardID": "645",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0124_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "おとぎの国の物語[オオカミ]　我那覇響",
+    "cardID": "677",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0134_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "13",
+    "cardName": "制服シリーズ　我那覇響",
+    "cardID": "741",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/013hib0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/013hib0143_1.png",
+    "type1": "sr",
     "type2": "ipr"
   },
   {
@@ -1229,6 +1742,60 @@
     "cardID": "536",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0123_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "サンライト・ブライド　春日未来",
+    "cardID": "555",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0134_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "UNI-ONAIR　春日未来",
+    "cardID": "588",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "月より団子？　春日未来",
+    "cardID": "676",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0152_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0152_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "ラブリースウィートガールズ　春日未来",
+    "cardID": "734",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0163_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "大願成就の予感！　春日未来",
+    "cardID": "758",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0173_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0173_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "14",
+    "cardName": "制服シリーズ　春日未来",
+    "cardID": "769",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/014mir0183_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/014mir0183_1.png",
     "type1": "sr",
     "type2": "ipr"
   },
@@ -1341,6 +1908,42 @@
     "type2": "ifa"
   },
   {
+    "idolID": "15",
+    "cardName": "UNI-ONAIR　最上静香",
+    "cardID": "589",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "くつろぎブックスペース　最上静香",
+    "cardID": "697",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0142_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0142_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "思いは和歌に秘めて　最上静香",
+    "cardID": "748",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0154_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "15",
+    "cardName": "制服シリーズ　最上静香",
+    "cardID": "775",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/015siz0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/015siz0163_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "16",
     "cardName": "伊吹翼",
     "cardID": "16",
@@ -1449,6 +2052,51 @@
     "type2": "ian"
   },
   {
+    "idolID": "16",
+    "cardName": "プライベート・ボックス　伊吹翼",
+    "cardID": "548",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "UNI-ONAIR　伊吹翼",
+    "cardID": "590",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "水上のユーフォリア　伊吹翼",
+    "cardID": "627",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0144_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "制服シリーズ　伊吹翼",
+    "cardID": "709",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0163_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "16",
+    "cardName": "反撃のハンター　伊吹翼",
+    "cardID": "754",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/016tsu0174_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/016tsu0174_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
     "idolID": "17",
     "cardName": "田中琴葉",
     "cardID": "218",
@@ -1544,6 +2192,42 @@
     "cardID": "521",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0113_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "昨日も今日も、その先も…　田中琴葉",
+    "cardID": "572",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0124_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "UNI-ONAIR　田中琴葉",
+    "cardID": "591",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "秋の匂いに包まれて　田中琴葉",
+    "cardID": "664",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0154_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "17",
+    "cardName": "せーのっ！　田中琴葉",
+    "cardID": "698",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/017kth0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/017kth0163_1.png",
     "type1": "sr",
     "type2": "ipr"
   },
@@ -1647,6 +2331,51 @@
     "type2": "ian"
   },
   {
+    "idolID": "18",
+    "cardName": "スマイルエブリデイ♡　島原エレナ",
+    "cardID": "574",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0124_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "UNI-ONAIR　島原エレナ",
+    "cardID": "592",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "カーニバル入場　島原エレナ",
+    "cardID": "700",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0142_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0142_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "制服シリーズ　島原エレナ",
+    "cardID": "729",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "18",
+    "cardName": "柔らかな眼差し　島原エレナ",
+    "cardID": "788",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/018ele0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/018ele0163_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "19",
     "cardName": "佐竹美奈子",
     "cardID": "18",
@@ -1737,6 +2466,51 @@
     "type2": "ipr"
   },
   {
+    "idolID": "19",
+    "cardName": "UNI-ONAIR　佐竹美奈子",
+    "cardID": "593",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "最強の陰陽師！　佐竹美奈子",
+    "cardID": "650",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0124_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "ぽかぽかサービス　佐竹美奈子",
+    "cardID": "665",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "制服シリーズ　佐竹美奈子",
+    "cardID": "721",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "19",
+    "cardName": "Jus-2-Mint　佐竹美奈子",
+    "cardID": "784",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/019min0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/019min0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "20",
     "cardName": "所恵美",
     "cardID": "19",
@@ -1823,6 +2597,60 @@
     "cardID": "466",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0103_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "ベストショットモーメント！　所恵美",
+    "cardID": "573",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0114_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "UNI-ONAIR　所恵美",
+    "cardID": "594",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "視線をクギづけ　所恵美",
+    "cardID": "673",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0132_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0132_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "ハッピーフレンズ　所恵美",
+    "cardID": "699",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "悩殺アラバスター　所恵美",
+    "cardID": "706",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0154_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "20",
+    "cardName": "スイートドーナツステージ　所恵美",
+    "cardID": "768",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/020meg0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/020meg0163_1.png",
     "type1": "sr",
     "type2": "ifa"
   },
@@ -1926,6 +2754,60 @@
     "type2": "ipr"
   },
   {
+    "idolID": "21",
+    "cardName": "UNI-ONAIR　徳川まつり",
+    "cardID": "595",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "制服シリーズ　徳川まつり",
+    "cardID": "659",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "おとぎの国の物語[魔法使い]　徳川まつり",
+    "cardID": "679",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "クリスマス★スイーツ　徳川まつり",
+    "cardID": "726",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0154_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "しゃぼんドリーム　徳川まつり",
+    "cardID": "757",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0162_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0162_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "21",
+    "cardName": "タウラス　徳川まつり",
+    "cardID": "771",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/021mat0173_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/021mat0173_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "22",
     "cardName": "箱崎星梨花",
     "cardID": "21",
@@ -2016,6 +2898,60 @@
     "type2": "ian"
   },
   {
+    "idolID": "22",
+    "cardName": "With My Heart　箱崎星梨花",
+    "cardID": "550",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0114_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "UNI-ONAIR　箱崎星梨花",
+    "cardID": "596",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "からかさ少女　箱崎星梨花",
+    "cardID": "654",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0132_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0132_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "おとぎの国の物語[少女]　箱崎星梨花",
+    "cardID": "680",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "制服シリーズ　箱崎星梨花",
+    "cardID": "742",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "22",
+    "cardName": "寿の華、ごらんあれ！　箱崎星梨花",
+    "cardID": "747",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/022ser0164_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/022ser0164_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
     "idolID": "23",
     "cardName": "野々原茜",
     "cardID": "22",
@@ -2102,6 +3038,33 @@
     "cardID": "480",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0104_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0104_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "フルーティ♡ベイビー　野々原茜",
+    "cardID": "558",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "UNI-ONAIR　野々原茜",
+    "cardID": "597",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "23",
+    "cardName": "ちゃっかり猫又娘　野々原茜",
+    "cardID": "651",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/023aka0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/023aka0134_1.png",
     "type1": "ssr",
     "type2": "ian"
   },
@@ -2196,6 +3159,51 @@
     "type2": "ian"
   },
   {
+    "idolID": "24",
+    "cardName": "UNI-ONAIR　望月杏奈",
+    "cardID": "598",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "夏祭りの楽しみ方　望月杏奈",
+    "cardID": "658",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0124_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "ベースに恋して！　望月杏奈",
+    "cardID": "718",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "クリスマス・ミッション　望月杏奈",
+    "cardID": "746",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0144_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "24",
+    "cardName": "電光鳴神ライブ　望月杏奈",
+    "cardID": "776",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/024ann0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/024ann0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "25",
     "cardName": "ロコ",
     "cardID": "24",
@@ -2282,6 +3290,51 @@
     "cardID": "538",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0104_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0104_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "フルーティ♡ベイビー　ロコ",
+    "cardID": "559",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "UNI-ONAIR　ロコ",
+    "cardID": "599",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "超ビーチバレー[プチキング]　ロコ",
+    "cardID": "682",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "制服シリーズ　ロコ",
+    "cardID": "722",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "25",
+    "cardName": "エマージェンシー・エマージェンス　ロコ",
+    "cardID": "780",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/025roc0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/025roc0154_1.png",
     "type1": "ssr",
     "type2": "ifa"
   },
@@ -2394,6 +3447,51 @@
     "type2": "ipr"
   },
   {
+    "idolID": "26",
+    "cardName": "UNI-ONAIR　七尾百合子",
+    "cardID": "600",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "Chrono-Lexica　七尾百合子",
+    "cardID": "642",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "劇場サスペンス[警部]　七尾百合子",
+    "cardID": "684",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0173_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0173_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "お茶目なヴァンパイアガール　七尾百合子",
+    "cardID": "689",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "26",
+    "cardName": "幸せはラージサイズで　七尾百合子",
+    "cardID": "745",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/026yur0164_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/026yur0164_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "27",
     "cardName": "高山紗代子",
     "cardID": "26",
@@ -2480,6 +3578,60 @@
     "cardID": "518",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0103_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0103_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "セクシースルーウェア　高山紗代子",
+    "cardID": "565",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "UNI-ONAIR　高山紗代子",
+    "cardID": "601",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "制服シリーズ　高山紗代子",
+    "cardID": "634",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "グレイト・ハーベスト　高山紗代子",
+    "cardID": "694",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0144_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "アクアリウス　高山紗代子",
+    "cardID": "711",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "27",
+    "cardName": "しっとり振袖ライブ　高山紗代子",
+    "cardID": "749",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/027say0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/027say0163_1.png",
     "type1": "sr",
     "type2": "ipr"
   },
@@ -2571,6 +3723,51 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0103_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0103_1.png",
     "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "制服シリーズ　松田亜利沙",
+    "cardID": "569",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "UNI-ONAIR　松田亜利沙",
+    "cardID": "602",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "サンライトフェアリー　松田亜利沙",
+    "cardID": "636",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "アクティビティボール　松田亜利沙",
+    "cardID": "669",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0144_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "28",
+    "cardName": "真夏のアップビート　松田亜利沙",
+    "cardID": "719",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/028ari0152_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/028ari0152_1.png",
+    "type1": "r",
     "type2": "ipr"
   },
   {
@@ -2691,6 +3888,42 @@
     "type2": "ipr"
   },
   {
+    "idolID": "29",
+    "cardName": "UNI-ONAIR　高坂海美",
+    "cardID": "603",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "トロピカル急接近サンデー　高坂海美",
+    "cardID": "629",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "夜空に瞬いて　高坂海美",
+    "cardID": "731",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0163_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "29",
+    "cardName": "新春ハピネスガール　高坂海美",
+    "cardID": "753",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/029umi0174_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/029umi0174_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "30",
     "cardName": "中谷育",
     "cardID": "29",
@@ -2786,6 +4019,60 @@
     "cardID": "499",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0113_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "制服シリーズ　中谷育",
+    "cardID": "551",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "手づくりランチョンマット　中谷育",
+    "cardID": "563",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0132_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0132_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "UNI-ONAIR　中谷育",
+    "cardID": "604",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "友情のメタモルフォーゼ　中谷育",
+    "cardID": "632",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0154_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "チュッ！てしちゃうぞ♪　中谷育",
+    "cardID": "686",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0164_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0164_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "30",
+    "cardName": "素敵な贈り物　中谷育",
+    "cardID": "738",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/030iku0173_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/030iku0173_1.png",
     "type1": "sr",
     "type2": "ipr"
   },
@@ -2898,6 +4185,33 @@
     "type2": "ifa"
   },
   {
+    "idolID": "31",
+    "cardName": "夕闇の悪戯　天空橋朋花",
+    "cardID": "557",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "UNI-ONAIR　天空橋朋花",
+    "cardID": "605",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "31",
+    "cardName": "制服シリーズ　天空橋朋花",
+    "cardID": "690",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/031tom0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/031tom0153_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "32",
     "cardName": "エミリー",
     "cardID": "31",
@@ -2993,6 +4307,60 @@
     "cardID": "511",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0113_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0113_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "英国淑女　エミリー",
+    "cardID": "549",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0122_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0122_1.png",
+    "type1": "r",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "UNI-ONAIR　エミリー",
+    "cardID": "606",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "くのいち見参！　エミリー",
+    "cardID": "639",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0144_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "忠義の征討　エミリー",
+    "cardID": "656",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "アウトサイダー[アマリリス]　エミリー",
+    "cardID": "703",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0163_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "32",
+    "cardName": "花咲夜　エミリー",
+    "cardID": "764",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/032emi0173_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/032emi0173_1.png",
     "type1": "sr",
     "type2": "ipr"
   },
@@ -3105,6 +4473,51 @@
     "type2": "ifa"
   },
   {
+    "idolID": "33",
+    "cardName": "寛ぎのひととき　北沢志保",
+    "cardID": "562",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "UNI-ONAIR　北沢志保",
+    "cardID": "607",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "三姉妹カフェ[黒ネコ]　北沢志保",
+    "cardID": "683",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0163_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "大切な贈り物　北沢志保",
+    "cardID": "739",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0152_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0152_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "33",
+    "cardName": "プレシャス・ギフト　北沢志保",
+    "cardID": "767",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/033sih0174_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/033sih0174_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "34",
     "cardName": "舞浜歩",
     "cardID": "33",
@@ -3195,6 +4608,51 @@
     "type2": "ifa"
   },
   {
+    "idolID": "34",
+    "cardName": "ミラクルパフォーマー　舞浜歩",
+    "cardID": "544",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0114_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "スプラッシュパニック！　舞浜歩",
+    "cardID": "566",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0122_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0122_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "UNI-ONAIR　舞浜歩",
+    "cardID": "608",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "すやすや抱きまくら　舞浜歩",
+    "cardID": "675",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "34",
+    "cardName": "ボーダレス・カーニバル！　舞浜歩",
+    "cardID": "791",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/034ayu0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/034ayu0153_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "35",
     "cardName": "木下ひなた",
     "cardID": "34",
@@ -3281,6 +4739,51 @@
     "cardID": "512",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0103_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "笑顔でお届け！　木下ひなた",
+    "cardID": "560",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0114_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "UNI-ONAIR　木下ひなた",
+    "cardID": "609",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "キャンサー　木下ひなた",
+    "cardID": "649",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "制服シリーズ　木下ひなた",
+    "cardID": "666",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "35",
+    "cardName": "果てしなく仁義ない戦い　木下ひなた",
+    "cardID": "752",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/035hin0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/035hin0153_1.png",
     "type1": "sr",
     "type2": "ian"
   },
@@ -3393,6 +4896,60 @@
     "type2": "ipr"
   },
   {
+    "idolID": "36",
+    "cardName": "サーカスの花形　矢吹可奈",
+    "cardID": "543",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0134_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "UNI-ONAIR　矢吹可奈",
+    "cardID": "610",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "制服シリーズ　矢吹可奈",
+    "cardID": "647",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "魅裏怨　矢吹可奈",
+    "cardID": "667",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0163_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "想いはいっしょ　矢吹可奈",
+    "cardID": "728",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0173_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0173_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "36",
+    "cardName": "おまじない　矢吹可奈",
+    "cardID": "772",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/036kan0184_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/036kan0184_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "37",
     "cardName": "横山奈緒",
     "cardID": "36",
@@ -3492,6 +5049,42 @@
     "type2": "ipr"
   },
   {
+    "idolID": "37",
+    "cardName": "UNI-ONAIR　横山奈緒",
+    "cardID": "611",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "キャンサー　横山奈緒",
+    "cardID": "648",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "赤く輝いて！　横山奈緒",
+    "cardID": "707",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0144_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "37",
+    "cardName": "Jus-2-Mint　横山奈緒",
+    "cardID": "785",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/037nao0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/037nao0153_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
     "idolID": "38",
     "cardName": "二階堂千鶴",
     "cardID": "37",
@@ -3570,6 +5163,51 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0094_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0094_1.png",
     "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "スリル満点ナイフショー　二階堂千鶴",
+    "cardID": "546",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0102_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0102_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "UNI-ONAIR　二階堂千鶴",
+    "cardID": "612",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "制服シリーズ　二階堂千鶴",
+    "cardID": "640",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "女学校のマドンナ　二階堂千鶴",
+    "cardID": "714",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "38",
+    "cardName": "迎春の調べ　二階堂千鶴",
+    "cardID": "760",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/038chz0142_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/038chz0142_1.png",
+    "type1": "r",
     "type2": "ifa"
   },
   {
@@ -3663,6 +5301,42 @@
     "type2": "ian"
   },
   {
+    "idolID": "39",
+    "cardName": "かわいい猛獣使い　馬場このみ",
+    "cardID": "545",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "UNI-ONAIR　馬場このみ",
+    "cardID": "613",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "紅深まる秋宵　馬場このみ",
+    "cardID": "695",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "39",
+    "cardName": "Sherry 'n Cherry　馬場このみ",
+    "cardID": "723",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/039kon0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/039kon0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "40",
     "cardName": "大神環",
     "cardID": "39",
@@ -3741,6 +5415,51 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0092_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0092_1.png",
     "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "UNI-ONAIR　大神環",
+    "cardID": "614",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "制服シリーズ　大神環",
+    "cardID": "641",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "メラメラサラマンダー　大神環",
+    "cardID": "657",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0122_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0122_1.png",
+    "type1": "r",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "いたずら大作戦　大神環",
+    "cardID": "687",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0134_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "40",
+    "cardName": "ファンタジックキャンドルナイト　大神環",
+    "cardID": "737",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/040tam0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/040tam0143_1.png",
+    "type1": "sr",
     "type2": "ian"
   },
   {
@@ -3830,6 +5549,51 @@
     "cardID": "540",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0103_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "Wedding Vows　豊川風花",
+    "cardID": "570",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "UNI-ONAIR　豊川風花",
+    "cardID": "615",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "酔いしれる芳香　豊川風花",
+    "cardID": "663",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0134_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "悩ましダンス　豊川風花",
+    "cardID": "708",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "41",
+    "cardName": "制服シリーズ　豊川風花",
+    "cardID": "762",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/041fuk0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/041fuk0153_1.png",
     "type1": "sr",
     "type2": "ian"
   },
@@ -3933,6 +5697,33 @@
     "type2": "ian"
   },
   {
+    "idolID": "42",
+    "cardName": "UNI-ONAIR　宮尾美也",
+    "cardID": "616",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "聖夜を飾る雪だるま　宮尾美也",
+    "cardID": "727",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0134_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "42",
+    "cardName": "タウラス　宮尾美也",
+    "cardID": "770",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/042miy0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/042miy0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "43",
     "cardName": "福田のり子",
     "cardID": "42",
@@ -4028,6 +5819,42 @@
     "cardID": "533",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0114_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0114_1.png",
+    "type1": "ssr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "UNI-ONAIR　福田のり子",
+    "cardID": "617",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0123_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "制服シリーズ　福田のり子",
+    "cardID": "715",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0133_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "BIGなご褒美タイム　福田のり子",
+    "cardID": "777",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0143_1.png",
+    "type1": "sr",
+    "type2": "ipr"
+  },
+  {
+    "idolID": "43",
+    "cardName": "乙女、風に吹かれて　福田のり子",
+    "cardID": "787",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/043nor0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/043nor0154_1.png",
     "type1": "ssr",
     "type2": "ipr"
   },
@@ -4149,6 +5976,42 @@
     "type2": "ifa"
   },
   {
+    "idolID": "44",
+    "cardName": "UNI-ONAIR　真壁瑞希",
+    "cardID": "618",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "降り注ぐシャインシャワー　真壁瑞希",
+    "cardID": "644",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0154_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "制服シリーズ　真壁瑞希",
+    "cardID": "756",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0163_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "44",
+    "cardName": "...In The Name Of。 ...LOVE? 　真壁瑞希",
+    "cardID": "773",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/044miz0174_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/044miz0174_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "45",
     "cardName": "篠宮可憐",
     "cardID": "44",
@@ -4239,6 +6102,60 @@
     "type2": "ian"
   },
   {
+    "idolID": "45",
+    "cardName": "ドキドキの瞬間　篠宮可憐",
+    "cardID": "556",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0114_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0114_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "UNI-ONAIR　篠宮可憐",
+    "cardID": "619",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "夏が香る景色　篠宮可憐",
+    "cardID": "637",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "月明かりのティータイム　篠宮可憐",
+    "cardID": "674",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "気付いて！乙女ゴコロ　篠宮可憐",
+    "cardID": "692",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0153_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "45",
+    "cardName": "制服シリーズ　篠宮可憐",
+    "cardID": "735",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/045kar0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/045kar0163_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
     "idolID": "46",
     "cardName": "百瀬莉緒",
     "cardID": "45",
@@ -4317,6 +6234,60 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0093_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0093_1.png",
     "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "Wedding Vows　百瀬莉緒",
+    "cardID": "571",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0103_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "UNI-ONAIR　百瀬莉緒",
+    "cardID": "620",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "麗しきエルフの戦士　百瀬莉緒",
+    "cardID": "631",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0124_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "Sherry 'n Cherry　百瀬莉緒",
+    "cardID": "724",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "かくし芸クイーン誕生！　百瀬莉緒",
+    "cardID": "755",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "46",
+    "cardName": "メルティング・キス　百瀬莉緒",
+    "cardID": "778",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/046rio0152_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/046rio0152_1.png",
+    "type1": "r",
     "type2": "ifa"
   },
   {
@@ -4410,6 +6381,60 @@
     "type2": "ifa"
   },
   {
+    "idolID": "47",
+    "cardName": "UNI-ONAIR　永吉昴",
+    "cardID": "621",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "Chrono-Lexica　永吉昴",
+    "cardID": "643",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "爽快ポケバイレース！　永吉昴",
+    "cardID": "671",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "おとぎの国の物語[旅人]　永吉昴",
+    "cardID": "678",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0144_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "快方のプロミス　永吉昴",
+    "cardID": "761",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0154_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "47",
+    "cardName": "ケガの消毒はしっかりと！　永吉昴",
+    "cardID": "781",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/047sub0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/047sub0163_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "48",
     "cardName": "北上麗花",
     "cardID": "47",
@@ -4488,6 +6513,69 @@
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0093_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0093_1.png",
     "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "制服シリーズ　北上麗花",
+    "cardID": "552",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0103_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0103_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "UNI-ONAIR　北上麗花",
+    "cardID": "622",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "サンセットビーチ　北上麗花",
+    "cardID": "646",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0123_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "魅裏怨　北上麗花",
+    "cardID": "668",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0133_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "アクアリウス　北上麗花",
+    "cardID": "710",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0143_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "パワフルレッド・ステージ　北上麗花",
+    "cardID": "732",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0154_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "48",
+    "cardName": "新人マドンナ教師　北上麗花",
+    "cardID": "783",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/048rei0162_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/048rei0162_1.png",
+    "type1": "r",
     "type2": "ian"
   },
   {
@@ -4577,6 +6665,60 @@
     "cardID": "526",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0104_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0104_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "UNI-ONAIR　周防桃子",
+    "cardID": "623",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0113_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "アツアツ地獄ライブ♪　周防桃子",
+    "cardID": "652",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "おとぎの国の物語[妖精]　周防桃子",
+    "cardID": "681",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "おいしく召し上がれ…♡　周防桃子",
+    "cardID": "685",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0144_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0144_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "果てしなく仁義ない戦い　周防桃子",
+    "cardID": "751",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0153_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0153_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "49",
+    "cardName": "スマイルキャットランド　周防桃子",
+    "cardID": "786",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/049mom0164_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/049mom0164_1.png",
     "type1": "ssr",
     "type2": "ifa"
   },
@@ -4680,6 +6822,51 @@
     "type2": "ifa"
   },
   {
+    "idolID": "50",
+    "cardName": "UNI-ONAIR　ジュリア",
+    "cardID": "624",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0123_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0123_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "熱闘!ビーチバレー　ジュリア",
+    "cardID": "638",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0132_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0132_1.png",
+    "type1": "r",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "制服シリーズ　ジュリア",
+    "cardID": "660",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "小さなオーケストラ　ジュリア",
+    "cardID": "693",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0154_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0154_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "50",
+    "cardName": "アイドル修行ポーズ編　ジュリア",
+    "cardID": "717",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/050jul0163_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/050jul0163_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "51",
     "cardName": "白石紬",
     "cardID": "50",
@@ -4779,6 +6966,33 @@
     "type2": "ifa"
   },
   {
+    "idolID": "51",
+    "cardName": "…コン♪　白石紬",
+    "cardID": "567",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0124_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0124_1.png",
+    "type1": "ssr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "UNI-ONAIR　白石紬",
+    "cardID": "625",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0133_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0133_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
+    "idolID": "51",
+    "cardName": "花咲夜　白石紬",
+    "cardID": "765",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/051tmg0143_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/051tmg0143_1.png",
+    "type1": "sr",
+    "type2": "ifa"
+  },
+  {
     "idolID": "52",
     "cardName": "桜守歌織",
     "cardID": "51",
@@ -4869,11 +7083,38 @@
     "type2": "ian"
   },
   {
+    "idolID": "52",
+    "cardName": "UNI-ONAIR　桜守歌織",
+    "cardID": "626",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0113_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0113_1.png",
+    "type1": "sr",
+    "type2": "ian"
+  },
+  {
+    "idolID": "52",
+    "cardName": "この時代を楽しんで　桜守歌織",
+    "cardID": "713",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/052kao0134_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/052kao0134_1.png",
+    "type1": "ssr",
+    "type2": "ian"
+  },
+  {
     "idolID": "201",
     "cardName": "世界を愛する聖少女　詩花",
     "cardID": "373",
     "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/201xxx0013_0.png",
     "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/201xxx0013_1.png",
+    "type1": "sr",
+    "type2": "iex"
+  },
+  {
+    "idolID": "202",
+    "cardName": "世界に冠たる絶対女王　玲音",
+    "cardID": "725",
+    "iconImg1": "https://storage.matsurihi.me/mltd/icon_l/202xxx0013_0.png",
+    "iconImg2": "https://storage.matsurihi.me/mltd/icon_l/202xxx0013_1.png",
     "type1": "sr",
     "type2": "iex"
   }

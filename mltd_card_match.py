@@ -81,7 +81,7 @@ def card_cut(img_path, save_folder):  # Separate cards from screenshots
             x = x + 1
 
 
-def card_match(path, remove_temp_file = True):
+def card_match(path, remove_temp_file=True):
 
     tempName = str(time.time())
     card_cut(path, tempName)

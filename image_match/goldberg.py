@@ -2,10 +2,10 @@ from skimage.color import rgb2gray
 from skimage.io import imread
 from PIL import Image
 from PIL.MpoImagePlugin import MpoImageFile
-try:
-    from cairosvg import svg2png
-except ImportError:
-    pass
+# try:
+#     from cairosvg import svg2png
+# except ImportError:
+#     pass
 from six import string_types, text_type
 from io import BytesIO
 import numpy as np
@@ -236,14 +236,14 @@ class ImageSignature(object):
             return rgb2gray(np.asarray(img, dtype=np.uint8))
         elif type(image_or_path) in string_types or \
              type(image_or_path) is text_type:
-            return imread(image_or_path, as_grey=True)
+            return imread(image_or_path, as_gray=True)
         elif type(image_or_path) is bytes:
             try:
                 img = Image.open(image_or_path)
                 arr = np.array(img.convert('RGB'))
             except IOError:
                 # try again due to PIL weirdness
-                return imread(image_or_path, as_grey=True)
+                return imread(image_or_path, as_gray=True)
             if handle_mpo:
                 # take the first images from the MPO
                 if arr.shape == (2,) and isinstance(arr[1].tolist(), MpoImageFile):

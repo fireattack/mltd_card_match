@@ -1,29 +1,31 @@
 import json
-
-from requests import get  # to make GET request
+import concurrent.futures
+from requests import get 
 from os.path import exists
-import cv2
 import numpy as np
 from os import listdir
 
 def downloadImg(url):
     filename = 'icons/' + url.split('/')[-1]
     if exists(filename):
-        print(f'{filename} already exists.')
+        # print(f'{filename} already exists.')
         return
-    response = get(url)
-    if response.status_code == 200:
-        with open(filename, 'wb') as f:
-            f.write(response.content)
-    else:
-        print(f'Download error: {str(response.status_code)}')
+    with get(url) as response:
+        if response.status_code == 200:
+            with open(filename, 'wb') as f:
+                f.write(response.content)
+        else:
+            print(f'Download error: {str(response.status_code)}')
 
 with open("cards.json", "r", encoding='utf-8') as read_file:
     cards = json.load(read_file)
 
-for card in cards:
-    downloadImg(card['iconImg1'])
-    downloadImg(card['iconImg2'])
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as e:
+    for card in cards:
+        e.submit(downloadImg,card['iconImg1'])
+        e.submit(downloadImg,card['iconImg2'])
+
+import cv2
 
 # Crop icons.
 files = [f for f in listdir('icons') if f.endswith('.png')]
@@ -37,7 +39,6 @@ for file in files:
     cv2.imwrite('icons_crop/' + file, img)
     
 from image_match.goldberg import ImageSignature
-
 
 # Generate template signature matrix.
 gis = ImageSignature()
